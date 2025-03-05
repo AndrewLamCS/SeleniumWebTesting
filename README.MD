@@ -1,5 +1,3 @@
-Certainly! Here’s the full `README.md` in one copyable block:
-
 ```markdown
 # Selenium Python Tests for E-Commerce Website
 
