@@ -1,4 +1,3 @@
-```markdown
 # Selenium Python Tests for E-Commerce Website
 
 This repository contains a collection of automated tests written in Python using the Selenium WebDriver. The tests are designed to verify various functionalities of an e-commerce website, ensuring that everything works as expected.
